@@ -1,0 +1,8 @@
+{
+    "PAGE_NOT_FOUND": "Oops, page not found.",
+    "ERROR": "We're having some technical difficulties here. Please try again.",
+    "SUCCESS": "Success.",
+    "NOT_AUTHORIZED": "You are not authorised.",
+    "FORBIDDENACCESS": "You don't have permission to access / on this server.",
+    "NO_RECORDS_FOUND": "No records have been found."
+}
